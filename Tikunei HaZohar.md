@@ -1,1 +1,1 @@
-Guinat
+Guinat egoze

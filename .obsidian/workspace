@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f0a6a3ce9bb1324",
+        "id": "865587355c4331c4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tikunei HaZohar.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tikunei HaZohar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f0a6a3ce9bb1324",
+  "active": "865587355c4331c4",
   "lastOpenFiles": [
-    "Tabela.md",
-    "Tikunei HaZohar.md"
+    "Tikunei HaZohar.md",
+    "Tabela.md"
   ]
 }

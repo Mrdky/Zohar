@@ -1,0 +1,80 @@
+{
+  "main": {
+    "id": "8e5c91e1a9b06e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6fee38504588df8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zohar Vayakhel.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65b1a8539109ba2a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dc6bb805cc93d13a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "979c954d5107e714",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "018c0fa8371e9b68",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5602c159529df27f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Zohar Vayakhel.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a6fee38504588df8",
+  "lastOpenFiles": [
+    "Zohar Vayakhel.md",
+    "Anjo da Morte.md"
+  ]
+}

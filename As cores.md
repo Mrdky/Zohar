@@ -1,0 +1,5 @@
+Todas as cores são boas se vistas em sonho, exceto o [[azul]], porque é um trono para a execução do Julgamento da alma.  Quando a pessoa vê este azul, aprendemos, ela fica com medo e se lembra de todos os mandamentos de seu Mestre, e se guarda dos pecados por medo da serpente.  Portanto, há azul no tabernáculo.  Em seguida, o rabino Isaac pergunta sobre a misericórdia, e o rabino Shimon responde que as cores melhoram quando os [[querubins]] viram seus rostos um para o outro.  Nessa época, até o verde vira ouro.  Quando as cores mudam, Malchut se transforma de [[Julgamento]] em Misericórdia e de Misericórdia em [[Justiça]], tudo de acordo com a mudança das cores.
+
+ As [[cores]] da Criação irromperam.  E à medida que se transmutam em vários tons, tons e matizes, também o julgamento se transforma em incontáveis atos da mais doce [[misericórdia]] para com toda a humanidade.  Adquirimos um amor profundo por nosso próximo à medida que toda [[MALCHUT]] é corrigida e transformada.
+
+#chesed #malchut #guevurah #querubins #azul

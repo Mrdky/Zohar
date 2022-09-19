@@ -1,1 +1,1 @@
-Guinat egoze
+Guinat egoze גנת אגוז

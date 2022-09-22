@@ -1,0 +1,4 @@
+Truma: versículo 480
+[[ "O filho de Uri" ]](Ibid.) SIGNIFICA o filho da luz primordial (hebr. or) que o Santo, bendito seja Ele, criou durante a obra da Criação.  "O filho de Chur" (Ibid.) SIGNIFICA o filho da liberdade (Heb. cherut) em tudo, OU seja, A LUZ DE BINAH, QUE É O SEGREDO DA LIBERDADE.  Outra explicação, "O filho de Chur" significa o filho que é branco (Heb. chiver) SIGNIFICADO branco de todas as cores, SIGNIFICADO QUE A LUZ DE CHASSADIM, QUE É BRANCA, ESTÁ EM ASCENDÊNCIA NELE.  E ele, [[BETZALEL, QUE É YESOD]], foi nomeado sobre a tribo de Judá, QUE É O SEGREDO DE MALCHUT.  Tudo está como deveria estar, PORQUE ![[YESOD]] TEM QUE SER JUNTO COM [[MALCHUT]].
+
+#Betzalel #OfilhoDeUri #permutar #permutação #yesod #malchut #BenHur  #ח #חור

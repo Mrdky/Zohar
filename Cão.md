@@ -1,0 +1,6 @@
+Acharei Mot: Versículo 135
+ A Nação Santa dá a ele o que é necessário para ele, OU seja, um bode (Heb. seir).  Este é o segredo de "Eis que Esaú, meu irmão, é um homem peludo (Heb. sa'ir)" (Bereshit 27:11), PORQUE ELE É UM ASPECTO DO OUTRO LADO.  CONTÉM CARACTERÍSTICAS MASCULINAS E FEMININAS, e assim como no lado da santidade há masculino e feminino, também no lado da corrupção existe um masculino e feminino.  Um ditado popular diz assim: Jogue um osso para um [[cachorro]] e ele lamberá a poeira dos seus pés;  AQUI TAMBÉM, DAMOS AO OUTRO LADO UM CABRA E ELE SE CONVERTE PARA SER DEFENSOR.
+#cães 
+
+Acharei Mot: Versículo 136
+ Eles perguntam a [[Ben Zoma]]: É permitido para nós castrar um cachorro?  Ele responde: "Nem farás assim em tua terra" (Vayikra 22:24).  O SIGNIFICADO É, você não deve fazer assim com nada em sua terra, MESMO A UM ![[Cão]], pois como o mundo precisa de uma coisa, ele precisa de outra, SIGNIFICADO QUE NÃO HÁ NADA NO MUNDO QUE NÃO SEJA NECESSÁRIO.  Portanto, aprendemos que "e eis que era muito bom" (Bereshit 1:31) se refere ao Anjo da Morte para que ele não fosse apagado do mundo, PORQUE o mundo precisa dele.  Embora esteja escrito sobre ele, O ANJO DA MORTE, "Sim, os cães são gananciosos, eles nunca têm o suficiente..." (Yeshayah 56:11).  NÃO É BOM que sejam extintos do mundo.  [[Tudo é necessário, bom e ruim.]]

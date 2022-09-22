@@ -1,0 +1,1 @@
+Tudo é necessário neste mundo, até mesmo o [[Anjo da Morte]].
